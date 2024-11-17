@@ -9,3 +9,7 @@ Para ello, debe implementar 2 funciones lambda en aws.
 
 ## Notas
 La BD solo cuenta con una tabla: Nombre evento, costo entrada, entradas disponibles, flyer (img mapeada a un string).
+
+Link al video https://youtu.be/unrsrXTnn1I
+
+
